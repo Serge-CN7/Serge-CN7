@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi! I'm Sergio
+---
 
-<!--
-**Serge-CN7/Serge-CN7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀ABOUT ME
+- 📍 I'm from Mexico
+- 🎓 Information and Communication Technologies Engineer
+- 😄 Pronouns: He/Him
+  
+---
 
-Here are some ideas to get you started:
+## 🔧 SKILLS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Programming Languages
+- 🔵 Java
+- 🔵 C
+- 🔵 C++
+- 🔵 Python
+
+## 🖥️ Frontend Development
+- 🟢 HTML
+- 🟢 CSS
+- 🟢 JavaScript
+
+## 🔑 Databases
+- 🟣 PostgreSQL
+- 🟣 MySQL
+---
+
+## 🌱 LEARNING
+- 📚 Spring
+- 📚 Spring Boot
+- 📚 Git
+- 📚 Apache Maven
+- 📚 Microservices
+---
+
+## 📫 CONTACT
+- ✉️ [sergio.cn099@gmail.com]
+---
