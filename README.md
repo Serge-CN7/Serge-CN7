@@ -14,7 +14,6 @@
 - 🔵 Java
 - 🔵 C
 - 🔵 C++
-- 🔵 Python
 
 ## 🖥️ Frontend Development
 - 🟢 HTML
@@ -29,8 +28,6 @@
 ## 🌱 LEARNING
 - 📚 Spring
 - 📚 Spring Boot
-- 📚 Git
-- 📚 Apache Maven
 - 📚 Microservices
 ---
 
